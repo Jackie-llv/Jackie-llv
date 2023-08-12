@@ -3,7 +3,7 @@
 I'm Jackie！a front-end developer from China.
 
 - 🔭 I’m currently working in Beijing
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently learning nestjs, English and AIGC
 - 💬 BTW, you can get in touch with me by sending mail to [jackielllv@gmail.com](mailto:jackielllv@gmail.com) :)
 
 
